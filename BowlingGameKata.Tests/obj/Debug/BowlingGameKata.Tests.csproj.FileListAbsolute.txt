@@ -30,3 +30,13 @@ c:\users\ivy\documents\visual studio 2015\Projects\BowlingGameKata\BowlingGameKa
 c:\users\ivy\documents\visual studio 2015\Projects\BowlingGameKata\BowlingGameKata.Tests\obj\Debug\BowlingGameKata.Tests.csprojResolveAssemblyReference.cache
 c:\users\ivy\documents\visual studio 2015\Projects\BowlingGameKata\BowlingGameKata.Tests\obj\Debug\BowlingGameKata.Tests.dll
 c:\users\ivy\documents\visual studio 2015\Projects\BowlingGameKata\BowlingGameKata.Tests\obj\Debug\BowlingGameKata.Tests.pdb
+C:\Users\IvyW\Documents\BowlingGameKata\BowlingGameKata.Tests\bin\Debug\BowlingGameKata.Tests.dll
+C:\Users\IvyW\Documents\BowlingGameKata\BowlingGameKata.Tests\bin\Debug\BowlingGameKata.Tests.pdb
+C:\Users\IvyW\Documents\BowlingGameKata\BowlingGameKata.Tests\bin\Debug\BowlingGameKata.App.dll
+C:\Users\IvyW\Documents\BowlingGameKata\BowlingGameKata.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\IvyW\Documents\BowlingGameKata\BowlingGameKata.Tests\bin\Debug\nunit.framework.dll
+C:\Users\IvyW\Documents\BowlingGameKata\BowlingGameKata.Tests\bin\Debug\BowlingGameKata.App.pdb
+C:\Users\IvyW\Documents\BowlingGameKata\BowlingGameKata.Tests\bin\Debug\nunit.framework.xml
+C:\Users\IvyW\Documents\BowlingGameKata\BowlingGameKata.Tests\obj\Debug\BowlingGameKata.Tests.csprojResolveAssemblyReference.cache
+C:\Users\IvyW\Documents\BowlingGameKata\BowlingGameKata.Tests\obj\Debug\BowlingGameKata.Tests.dll
+C:\Users\IvyW\Documents\BowlingGameKata\BowlingGameKata.Tests\obj\Debug\BowlingGameKata.Tests.pdb

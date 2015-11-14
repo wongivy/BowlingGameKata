@@ -1,15 +1,15 @@
-﻿using System;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+﻿
 using BowlingGameKata.Models;
+using NUnit.Framework;
 
 namespace BowlingGameKata.Tests
 {
-    [TestClass]
+    [TestFixture]
     public class UnitTest1
     {
         private Game g;
 
-        [TestInitialize]
+        [TestFixtureSetUp]
         public void setUp()
         {
             g = new Game();
@@ -23,21 +23,21 @@ namespace BowlingGameKata.Tests
             }
         }
 
-        [TestMethod]
+        [Test]
         public void testGutterGame()
         {
             rollMany(20, 0);
             Assert.AreEqual(0, g.score());
         }
 
-        [TestMethod]
+        [Test]
         public void testAllOnes()
         {
             rollMany(20, 1);
             Assert.AreEqual(20, g.score());
         }
 
-        [TestMethod]
+        [Test]
         public void testOneSpare()
         {
             rollSpare();
@@ -46,7 +46,7 @@ namespace BowlingGameKata.Tests
             Assert.AreEqual(16, g.score());
         }
 
-        [TestMethod]
+        [Test]
         public void testTwoStrike()
         {
             rollStrike();
@@ -56,7 +56,7 @@ namespace BowlingGameKata.Tests
             Assert.AreEqual(24, g.score());
         }
 
-        [TestMethod]
+        [Test]
         public void testPerfectGame()
         {
             rollMany(12, 10);
